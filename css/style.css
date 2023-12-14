@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+main{
+    display: grid;
+    grid-template-columns: repeat(6) 1fr;
+}
+
+.header{
+    
+}
